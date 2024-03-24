@@ -22,3 +22,5 @@ CREATE TABLE restaurants (
   location VARCHAR(50),
   price_range INT
 );
+
+INSERT INTO restaurants (id, name, location, price_range) values (123, 'McDonald', 'new york', 3);
