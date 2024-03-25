@@ -26,5 +26,3 @@ CREATE TABLE restaurants (
 INSERT INTO restaurants (id, name, location, price_range) values (123, 'McDonald', 'new york', 3);
 INSERT INTO restaurants (price_range) values(12);
 SELECT * FROM restaurants;
-
--- stopLine - 58:28 
